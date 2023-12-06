@@ -8,7 +8,7 @@
 
 💬 Ask me about what you want ! I'm open to discuss about everything that come into your mind 
 
-<p> 📫 Feel free to reach me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/lemire-anais/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lemire-anais/" height="20" width="30" /></a> or with the contact form in my <a href="https://anaislemire.vercel.app/">Portofolio</a> or on <a href="https://stackoverflow.com/users/anaislcno" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anaislcno" height="20" width="30" /></a></p>
+<p> 📫 Feel free to reach me on <a href="https://www.linkedin.com/in/lemire-anais/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lemire-anais/" height="20" width="30" /></a> or with the contact form in my <a href="https://anaislemire.vercel.app/">Portofolio</a> or on <a href="https://stackoverflow.com/users/anaislcno" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anaislcno" height="20" width="30" /></a></p>
 
 <div align="left">
   <h3>Languages & Tools</h3>
