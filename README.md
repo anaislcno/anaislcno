@@ -1,4 +1,4 @@
-### Hi there, I'm Anais 👋
+<h1>Hi there, I'm Anaïs 👋</h1>
 
 🔭 I’m working on developping skills, hard like softs permanently 
 
