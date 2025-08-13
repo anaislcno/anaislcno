@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Anaïs h1>
+<h1>Hi there, I'm Anaïs <h1>
 
 I’m working on developping skills, hards like softs and currently learning TypeScript and Tailwind.
 I'm open to discuss about everything that come into your mind. 
